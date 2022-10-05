@@ -1,0 +1,6 @@
+.devcontainer/*
+__pycache__/util.cpython-39.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+data.pickle
